@@ -1,0 +1,7 @@
+- [ ] Fix imports: add Box and Button to @mui/material import
+- [ ] Fix TextField onChange: setEmailContent(e.target.value)
+- [ ] Fix Select: change Value to value
+- [ ] Add generate button with onClick handler
+- [ ] Add display for generatedReply (TextField or Typography)
+- [ ] Implement generateReply function: mock async function to generate reply based on emailContent and tone, handle loading and error states
+- [ ] Test the app
